@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CCrimeInformations>
+	<CrimeInformations>
+		<Item key="CRIME_BLOCK_POLICE_CAR">
+			<WitnessInformation>
+				<Flags>MustBeWitnessed</Flags>
+				<AdditionalFlagsForSP>MustNotifyLawEnforcement</AdditionalFlagsForSP>
+			</WitnessInformation>
+		</Item>
+		<Item key="CRIME_CAR_SET_ON_FIRE">
+			<WitnessInformation>
+				<Flags>MustBeWitnessed</Flags>
+				<AdditionalFlagsForSP>MustNotifyLawEnforcement</AdditionalFlagsForSP>
+			</WitnessInformation>
+		</Item>
+		<Item key="CRIME_CAUSE_EXPLOSION">
+			<WitnessInformation>
+				<MaxDistanceToHear value="30.0" />
+				<Flags>MustBeWitnessed</Flags>
+				<AdditionalFlagsForSP>MustNotifyLawEnforcement</AdditionalFlagsForSP>
+			</WitnessInformation>
+		</Item>
+		<Item key="CRIME_COP_SET_ON_FIRE">
+			<WitnessInformation>
+				<Flags>MustBeWitnessed</Flags>
+				<AdditionalFlagsForSP>MustNotifyLawEnforcement</AdditionalFlagsForSP>
+			</WitnessInformation>
+		</Item>
+		<Item key="CRIME_DAMAGE_TO_PROPERTY">
+			<WitnessInformation>
+				<Flags>MustBeWitnessed</Flags>
+				<AdditionalFlagsForSP>MustNotifyLawEnforcement</AdditionalFlagsForSP>
+			</WitnessInformation>
+		</Item>
+		<Item key="CRIME_DESTROY_HELI">
+			<WitnessInformation>
+				<MaxDistanceToHear value="30.0" />
+				<Flags>MustBeWitnessed</Flags>
+				<AdditionalFlagsForSP>MustNotifyLawEnforcement</AdditionalFlagsForSP>
+			</WitnessInformation>
+		</Item>
+		<Item key="CRIME_DESTROY_PLANE">
+			<WitnessInformation>
+				<MaxDistanceToHear value="30.0" />
+				<Flags>MustBeWitnessed</Flags>
+				<AdditionalFlagsForSP>MustNotifyLawEnforcement</AdditionalFlagsForSP>
+			</WitnessInformation>
+		</Item>
+		<Item key="CRIME_DESTROY_VEHICLE">
+			<WitnessInformation>
+				<MaxDistanceToHear value="30.0" />
+				<Flags>MustBeWitnessed</Flags>
+				<AdditionalFlagsForSP>MustNotifyLawEnforcement</AdditionalFlagsForSP>
+			</WitnessInformation>
+		</Item>
+		<Item key="CRIME_DRIVE_AGAINST_TRAFFIC">
+			<WitnessInformation>
+				<Flags>MustBeWitnessed</Flags>
+				<AdditionalFlagsForSP>MustNotifyLawEnforcement</AdditionalFlagsForSP>
+			</WitnessInformation>
+		</Item>
+		<Item key="CRIME_FIREARM_DISCHARGE">
+			<WitnessInformation>
+				<MaxDistanceToHear value="30.0" />
+				<Flags>MustBeWitnessed</Flags>
+				<AdditionalFlagsForSP>MustNotifyLawEnforcement</AdditionalFlagsForSP>
+			</WitnessInformation>
+		</Item>
+		<Item key="CRIME_HIT_COP">
+			<WitnessInformation>
+				<MaxDistanceToHear value="5.0" />
+				<Flags>MustBeWitnessed</Flags>
+				<AdditionalFlagsForSP>MustNotifyLawEnforcement OnlyVictimCanNotifyLawEnforcement</AdditionalFlagsForSP>
+			</WitnessInformation>
+		</Item>
+		<Item key="CRIME_HIT_PED">
+			<WitnessInformation>
+				<MaxDistanceToHear value="5.0" />
+				<Flags>MustBeWitnessed</Flags>
+				<AdditionalFlagsForSP>MustNotifyLawEnforcement</AdditionalFlagsForSP>
+			</WitnessInformation>
+		</Item>
+		<Item key="CRIME_KILL_COP">
+			<WitnessInformation>
+				<MaxDistanceToHear value="5.0" />
+				<Flags>MustBeWitnessed</Flags>
+				<AdditionalFlagsForSP>MustNotifyLawEnforcement OnlyVictimCanNotifyLawEnforcement</AdditionalFlagsForSP>
+			</WitnessInformation>
+		</Item>		
+		<Item key="CRIME_MOLOTOV">
+			<WitnessInformation>
+				<Flags>MustBeWitnessed</Flags>
+				<AdditionalFlagsForSP>MustNotifyLawEnforcement</AdditionalFlagsForSP>
+			</WitnessInformation>
+		</Item>
+		<Item key="CRIME_PED_SET_ON_FIRE">
+			<WitnessInformation>
+				<Flags>MustBeWitnessed</Flags>
+				<AdditionalFlagsForSP>MustNotifyLawEnforcement</AdditionalFlagsForSP>
+			</WitnessInformation>
+		</Item>
+		<Item key="CRIME_POSSESSION_GUN">
+			<WitnessInformation>
+				<Flags>MustBeWitnessed</Flags>
+				<AdditionalFlagsForSP>MustNotifyLawEnforcement</AdditionalFlagsForSP>
+			</WitnessInformation>
+		</Item>
+		<Item key="CRIME_RECKLESS_DRIVING">
+			<WitnessInformation>
+				<Flags>MustBeWitnessed</Flags>
+				<AdditionalFlagsForSP>MustNotifyLawEnforcement</AdditionalFlagsForSP>
+			</WitnessInformation>
+		</Item>
+		<Item key="CRIME_RESIST_ARREST">
+			<WitnessInformation>
+				<Flags>MustBeWitnessed</Flags>
+				<AdditionalFlagsForSP>MustNotifyLawEnforcement</AdditionalFlagsForSP>
+			</WitnessInformation>
+		</Item>
+		<Item key="CRIME_RIDING_BIKE_WITHOUT_HELMET">
+			<WitnessInformation>
+				<Flags>MustBeWitnessed</Flags>
+				<AdditionalFlagsForSP>MustNotifyLawEnforcement</AdditionalFlagsForSP>
+			</WitnessInformation>
+		</Item>
+		<Item key="CRIME_RUN_REDLIGHT">
+			<WitnessInformation>
+				<Flags>MustBeWitnessed</Flags>
+				<AdditionalFlagsForSP>MustNotifyLawEnforcement</AdditionalFlagsForSP>
+			</WitnessInformation>
+		</Item>
+		<Item key="CRIME_RUNOVER_COP">
+			<WitnessInformation>
+				<Flags>MustBeWitnessed</Flags>
+				<AdditionalFlagsForSP>MustNotifyLawEnforcement OnlyVictimCanNotifyLawEnforcement</AdditionalFlagsForSP>
+			</WitnessInformation>
+		</Item>
+		<Item key="CRIME_RUNOVER_PED">
+			<WitnessInformation>
+				<Flags>MustBeWitnessed</Flags>
+				<AdditionalFlagsForSP>MustNotifyLawEnforcement</AdditionalFlagsForSP>
+			</WitnessInformation>
+		</Item>
+		<Item key="CRIME_SHOOT_AT_COP">
+			<WitnessInformation>
+				<MaxDistanceToHear value="5.0" />
+				<Flags>MustBeWitnessed</Flags>
+				<AdditionalFlagsForSP>MustNotifyLawEnforcement OnlyVictimCanNotifyLawEnforcement</AdditionalFlagsForSP>
+			</WitnessInformation>
+		</Item>
+		<Item key="CRIME_SHOOT_COP">
+			<WitnessInformation>
+				<MaxDistanceToHear value="5.0" />
+				<Flags>MustBeWitnessed</Flags>
+				<AdditionalFlagsForSP>MustNotifyLawEnforcement OnlyVictimCanNotifyLawEnforcement</AdditionalFlagsForSP>
+			</WitnessInformation>
+		</Item>		
+		<Item key="CRIME_SHOOT_NONLETHAL_COP">
+			<WitnessInformation>
+				<MaxDistanceToHear value="5.0" />
+				<Flags>MustBeWitnessed</Flags>
+				<AdditionalFlagsForSP>MustNotifyLawEnforcement</AdditionalFlagsForSP>
+			</WitnessInformation>
+		</Item>			
+		<Item key="CRIME_SHOOT_NONLETHAL_PED">
+			<WitnessInformation>
+				<MaxDistanceToHear value="5.0" />
+				<Flags>MustBeWitnessed</Flags>
+				<AdditionalFlagsForSP>MustNotifyLawEnforcement</AdditionalFlagsForSP>
+			</WitnessInformation>
+		</Item>	
+		<Item key="CRIME_SHOOT_PED">
+			<WitnessInformation>
+				<MaxDistanceToHear value="5.0" />
+				<Flags>MustBeWitnessed</Flags>
+				<AdditionalFlagsForSP>MustNotifyLawEnforcement</AdditionalFlagsForSP>
+			</WitnessInformation>
+		</Item>
+		<Item key="CRIME_SHOOT_VEHICLE">
+			<WitnessInformation>
+				<MaxDistanceToHear value="5.0" />
+				<Flags>MustBeWitnessed</Flags>
+				<AdditionalFlagsForSP>MustNotifyLawEnforcement</AdditionalFlagsForSP>
+			</WitnessInformation>
+		</Item>
+		<Item key="CRIME_SPEEDING">
+			<WitnessInformation>
+				<Flags>MustBeWitnessed</Flags>
+				<AdditionalFlagsForSP>MustNotifyLawEnforcement</AdditionalFlagsForSP>
+			</WitnessInformation>
+		</Item>
+		<Item key="CRIME_STAB_COP">
+			<WitnessInformation>
+				<MaxDistanceToHear value="5.0" />
+				<Flags>MustBeWitnessed</Flags>
+				<AdditionalFlagsForSP>MustNotifyLawEnforcement OnlyVictimCanNotifyLawEnforcement</AdditionalFlagsForSP>
+			</WitnessInformation>
+		</Item>
+		<Item key="CRIME_STAB_PED">
+			<WitnessInformation>
+				<MaxDistanceToHear value="5.0" />
+				<Flags>MustBeWitnessed</Flags>
+				<AdditionalFlagsForSP>MustNotifyLawEnforcement</AdditionalFlagsForSP>
+			</WitnessInformation>
+		</Item>
+		<Item key="CRIME_STAND_ON_POLICE_CAR">
+			<WitnessInformation>
+				<Flags>MustBeWitnessed</Flags>
+				<AdditionalFlagsForSP>MustNotifyLawEnforcement</AdditionalFlagsForSP>
+			</WitnessInformation>
+		</Item>
+		<Item key="CRIME_STEAL_CAR">
+			<WitnessInformation>
+				<Flags>MustBeWitnessed</Flags>
+				<AdditionalFlagsForSP>MustNotifyLawEnforcement</AdditionalFlagsForSP>
+			</WitnessInformation>
+		</Item>
+		<Item key="CRIME_KILL_PED">
+			<WitnessInformation>
+				<MaxDistanceToHear value="5.0" />
+				<Flags>MustBeWitnessed</Flags>
+				<AdditionalFlagsForSP>MustNotifyLawEnforcement</AdditionalFlagsForSP>
+			</WitnessInformation>
+		</Item>
+		<Item key="CRIME_STEAL_VEHICLE">
+			<WitnessInformation>
+				<Flags>MustBeWitnessed</Flags>
+				<AdditionalFlagsForSP>MustNotifyLawEnforcement</AdditionalFlagsForSP>
+			</WitnessInformation>
+		</Item>
+		<Item key="CRIME_JACK_DEAD_PED">
+			<WitnessInformation>
+				<Flags>MustBeWitnessed</Flags>
+				<AdditionalFlagsForSP>MustNotifyLawEnforcement</AdditionalFlagsForSP>
+			</WitnessInformation>
+		</Item>
+		<Item key="CRIME_TARGET_COP">
+			<WitnessInformation>
+				<Flags>MustBeWitnessed</Flags>
+				<AdditionalFlagsForSP>MustNotifyLawEnforcement</AdditionalFlagsForSP>
+			</WitnessInformation>
+		</Item>
+		<Item key="CRIME_TERRORIST_ACTIVITY">
+			<WitnessInformation>
+			<MaxDistanceToHear value="4.0" />
+				<Flags>MustBeWitnessed</Flags>
+				<AdditionalFlagsForSP>MustNotifyLawEnforcement</AdditionalFlagsForSP>
+			</WitnessInformation>
+		</Item>
+		<Item key="CRIME_HASSLE">
+			<WitnessInformation>
+				<Flags>MustBeWitnessed</Flags>
+				<AdditionalFlagsForSP>MustNotifyLawEnforcement OnlyVictimCanNotifyLawEnforcement</AdditionalFlagsForSP>
+			</WitnessInformation>
+		</Item>
+		<Item key="CRIME_STEALTH_KILL_COP">
+			<WitnessInformation>
+				<MaxDistanceToHear value="2.0" />
+				<Flags>MustBeWitnessed</Flags>
+				<AdditionalFlagsForSP>MustNotifyLawEnforcement</AdditionalFlagsForSP>
+			</WitnessInformation>
+		</Item>
+		<Item key="CRIME_STEALTH_KILL_PED">
+			<WitnessInformation>
+				<MaxDistanceToHear value="2.0" />
+				<Flags>MustBeWitnessed</Flags>
+				<AdditionalFlagsForSP>MustNotifyLawEnforcement</AdditionalFlagsForSP>
+			</WitnessInformation>
+		</Item>
+		<Item key="CRIME_SHOOT_PED_SUPPRESSED">
+			<WitnessInformation>
+				<MaxDistanceToHear value="2.0" />
+				<Flags>MustBeWitnessed</Flags>
+				<AdditionalFlagsForSP>MustNotifyLawEnforcement</AdditionalFlagsForSP>
+			</WitnessInformation>
+		</Item>
+		<Item key="CRIME_SHOOT_COP_SUPRESSED">
+			<WitnessInformation>
+				<MaxDistanceToHear value="2.0" />
+				<Flags>MustBeWitnessed</Flags>
+				<AdditionalFlagsForSP>MustNotifyLawEnforcement OnlyVictimCanNotifyLawEnforcement</AdditionalFlagsForSP>
+			</WitnessInformation>
+		</Item>
+		<Item key="CRIME_KILL_PED">
+			<WitnessInformation>
+				<MaxDistanceToHear value="5.0" />
+				<Flags>MustBeWitnessed</Flags>
+				<AdditionalFlagsForSP>MustNotifyLawEnforcement</AdditionalFlagsForSP>
+			</WitnessInformation>
+		</Item>
+	</CrimeInformations>
+</CCrimeInformations>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CWitnessInformations>
+	<Personalities>
+		<Item key="Default">
+			<Flags>CanWitnessCrimes WillCallLawEnforcement</Flags>
+		</Item>
+		<Item key="Player">
+			<Flags>CanWitnessCrimes WillCallLawEnforcement</Flags>
+		</Item>
+		<Item key="Ped">
+			<Flags>CanWitnessCrimes WillCallLawEnforcement</Flags>
+		</Item>
+		<Item key="Cop">
+			<Flags>CanWitnessCrimes WillCallLawEnforcement</Flags>
+		</Item>
+		<Item key="Army">
+			<Flags>CanWitnessCrimes WillCallLawEnforcement</Flags>
+		</Item>
+		<Item key="Animal" />
+	</Personalities>
+</CWitnessInformations>
